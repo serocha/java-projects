@@ -1,0 +1,18 @@
+<NEW SESSION>
+Height: 70.00in
+Weight: 155.00lbs
+Calculated BMI = 22.24
+Result: Normal
+
+<NEW SESSION>
+Height: 60.00in
+Weight: 135.00lbs
+Calculated BMI = 26.36
+Result: Overweight
+
+<NEW SESSION>
+Height: 76.00in
+Weight: 200.00lbs
+Calculated BMI = 24.34
+Result: Normal
+
